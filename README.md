@@ -14,4 +14,10 @@
 	**3.1 Server**<br>
 		Open the folder containing the project in a terminal and use the command "npm start" to launch the server.<br><br>
 	**3.2 Website**<br>
-		Open the link logged in the terminal.<br>
+		Open the link logged in the terminal.<br><br>
+**4. Docker**<br><br>
+	run the following commands<br>
+	```
+	sudo docker build .
+	```<br>
+	once you have your image id run<br> ``` sudo docker run -p 8080:8080 {imageId}``` 
