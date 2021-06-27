@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+.container {
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+  }
+  .centered {
+    font-size: 2rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .quote-text {
+    font-family: Times, "Times New Roman", Georgia, serif;
+    color: white;
+    text-shadow: 1.5px 1.5px #000;
+  }
+  .responsive-img {
+    background-color: rgb(0, 0, 0);
+    max-width: 100%;
+    min-height: 600px;
+    object-fit: cover;
+    object-position: bottom;
+  }
