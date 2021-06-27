@@ -12,7 +12,7 @@
 		The project can be cloned or downloaded from this github page.<br><br>
 **3. Launch**<br><br>
 	**3.1 Server**<br>
-		Open the folder containing the project in a terminal and use the command "npm start" to launch the server.<br><br>
+		Open the folder containing the project in a terminal and use the command ```npm start``` to launch the server.<br><br>
 	**3.2 Website**<br>
 		Open the link logged in the terminal.<br><br>
 **4. Docker**<br><br>
