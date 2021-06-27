@@ -7,9 +7,9 @@
 		Written in Javascript using Node.js and Express for the server. Axios is used to make calls to the TheySaidSo API, Handlebars is used to generate the html.<br><br>
 **2. Installation**<br><br>
 	**2.1 Prerequisite**<br>
-		- Node.js : can be downloaded there https://nodejs.dev/download<br><br>
+		- Node.js : can be downloaded here : https://nodejs.dev/download<br><br>
 	**2.2 Installation**<br>
-		The project can be cloned or downloaded from the github page.<br><br>
+		The project can be cloned or downloaded from this github page.<br><br>
 **3. Launch**<br><br>
 	**3.1 Server**<br>
 		Open the folder containing the project in a terminal and use the command "npm start" to launch the server.<br><br>
